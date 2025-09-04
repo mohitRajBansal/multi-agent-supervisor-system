@@ -12,6 +12,3 @@ It analyzes **Indian stock market (NSE)** data to provide short-term trading rec
 - **Price Recommender Agent** → Provides Buy/Sell/Hold recommendations with entry/exit targets.  
 - **Supervisor Agent** → Manages task handoff sequentially between all agents.  
 
----
-
-## 📂 File Structure
